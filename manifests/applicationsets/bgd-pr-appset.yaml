@@ -9,9 +9,9 @@ spec:
       github:
         owner: fmg-bmw
         repo: bgd
-        labels:
-        - preview
-      requeueAfterSeconds: 5
+#        labels:
+#        - preview
+      requeueAfterSeconds: 10
   template:
     metadata:
       name: 'bgd-{{branch}}-{{number}}'
