@@ -9,8 +9,8 @@ spec:
       github:
         owner: fmg-bmw
         repo: bgd
-#        labels:
-#        - preview
+        labels:
+        - preview
       requeueAfterSeconds: 10
   template:
     metadata:
