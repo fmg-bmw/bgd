@@ -75,3 +75,7 @@ bgd-green-3   Synced        Healthy
 ```
 
 Note that out of the 2 PRs, only the one with the `preview` label is deployed.
+
+Deleting namespaces
+ - https://github.com/argoproj/argo-cd/issues/7875
+ - https://github.com/argoproj/argo-cd/pull/11821 
